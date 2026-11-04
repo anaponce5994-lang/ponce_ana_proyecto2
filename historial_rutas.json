@@ -1,0 +1,13 @@
+[
+  {
+    "fecha": "2026-11-03T23:50:01",
+    "inicio": "CUGDL",
+    "destino": "UNIVA",
+    "camino": [
+      "CUGDL",
+      "UNIVER",
+      "UNIVA"
+    ],
+    "peso_total": 11.1
+  }
+]
